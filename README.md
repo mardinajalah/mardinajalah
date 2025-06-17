@@ -18,6 +18,8 @@
 <br />
 <br />
 
-<div line="center">
+<div align="center">
+  
   ![](https://nirzak-streak-stats.vercel.app/?user=mardinajalah&theme=dark&hide_border=false)
+  
 </div>
