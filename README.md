@@ -29,12 +29,7 @@
 
 <div align="center">
   
-  ![](https://nirzak-streak-stats.vercel.app/?user=mardinajalah&theme=dark&hide_border=false)
-  
-</div>
-
-<div align="center">
-  
+  ![](https://nirzak-streak-stats.vercel.app/?user=mardinajalah&theme=dark&hide_border=false) 
   ![](https://github-readme-stats.vercel.app/api?username=mardinajalah&show_icons=true&theme=radical)
   
 </div>
