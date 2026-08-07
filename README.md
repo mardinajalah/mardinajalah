@@ -76,22 +76,18 @@
 
 ## 📊 Statistik GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mardinajalah&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Mardin GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mardinajalah&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mardinajalah&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Mardin GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mardinajalah&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</p>
 
-<br />
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=mardinajalah&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mardinajalah&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mardinajalah&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mardinajalah&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
 
 <br />
 
