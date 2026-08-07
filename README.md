@@ -27,7 +27,7 @@
 
 <br/>
 
-<!-- Modern Hero Overview Cards Table (GFM Compliant, No Blank Lines) -->
+<!-- Modern Hero Overview Cards Table -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -108,7 +108,21 @@
 
 <br />
 
-## 🐍 Contribution Snake Game
+<hr />
+
+## 📊 Statistik GitHub
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mardinajalah&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Mardin GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=mardinajalah&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mardinajalah&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mardinajalah&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+<br/>
 
 <div align="center">
   <picture>
@@ -118,32 +132,7 @@
   </picture>
 </div>
 
-<br />
-
-## 📊 Statistik GitHub
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mardinajalah&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Mardin GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mardinajalah&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=mardinajalah&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mardinajalah&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
-
-<br />
-
-<hr />
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
-<br />
+<br/>
 
 <div align="center">
   <sub>Dibuat dengan ❤️ oleh <a href="https://github.com/mardinajalah">Mardin</a></sub>
