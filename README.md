@@ -18,10 +18,6 @@
   <a href="https://github.com/mardinajalah?tab=followers">
     <img src="https://img.shields.io/github/followers/mardinajalah?label=Followers&logo=github&style=flat-square&color=3b82f6" alt="GitHub Followers" />
   </a>
-  &nbsp;
-  <a href="mailto:mardinanarcy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
 
 </div>
 
@@ -50,6 +46,28 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mardinajalah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/mardinajalah" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/mardinajalah" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:mardinanarcy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mardinanarcy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/mardinajalah">
+    <img src="https://img.shields.io/badge/GitHub-mardinajalah-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 <br/>
 
@@ -110,6 +128,35 @@
 
 <hr />
 
+## 📌 Featured Projects & Applications
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Modern Web Apps</h3>
+      <p>Aplikasi web interaktif berkinerja tinggi yang dibangun menggunakan React.js, Next.js, dan TypeScript dengan desain responsif modern.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ RESTful API & Backend Services</h3>
+      <p>Layanan backend dan API yang cepat, aman, dan mudah dikembangkan menggunakan Node.js dan Express.js.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<hr />
+
 ## 📊 Statistik GitHub
 
 <p align="center">
@@ -130,6 +177,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mardinajalah/mardinajalah/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mardinajalah/mardinajalah/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 <br/>
