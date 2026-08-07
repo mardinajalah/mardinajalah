@@ -1,18 +1,57 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="img/github-header-image.png" alt="Header Banner" width="100%" style="border-radius: 10px;" />
+  <!-- Waving Capsule Animated Header Banner -->
+  <a href="https://github.com/mardinajalah">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:0f172a,70:1e1b4b,100:06b6d4&height=240&section=header&text=MARDIN&fontSize=70&animation=twinkling&fontAlignY=38&desc=FRONTEND%20%26%20WEB%20DEVELOPER&descAlignY=65&descAlign=50" width="100%" alt="Header Banner" />
+  </a>
+
+  <!-- Continuous Animated Glowing Line GIF -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
 
   <br/><br/>
 
-  <!-- Typing SVG Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Halo!+Saya+Mardin+%F0%9F%91%8B;Frontend+%26+Web+Developer;React+%26+Next.js+Enthusiast;Continuous+Learner+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <!-- Cyber Terminal Window Dashboard (Mirrors wildanniam profile layout) -->
+  <table width="100%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; border-spacing: 0;">
+    <thead>
+      <tr style="background-color: #161b22;">
+        <th colspan="2" align="left" style="padding: 10px 15px; border-bottom: 1px solid #30363d;">
+          <span style="color: #ff5f56; font-size: 14px;">🔴</span> 
+          <span style="color: #ffbd2e; font-size: 14px;">🟡</span> 
+          <span style="color: #27c93f; font-size: 14px;">🟢</span>
+          &nbsp;&nbsp;&nbsp;
+          <span style="color: #8b949e; font-family: monospace; font-size: 13px;">mardin@dev:~ /profile.json</span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <!-- Left Side: Animated Coding GIF / Typing -->
+        <td width="35%" align="center" valign="middle" style="padding: 20px; border-right: 1px solid #21262d;">
+          <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="max-width: 200px; border-radius: 8px;" alt="Coding Animation GIF" />
+          <br/><br/>
+          <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=61DAFB&center=true&vcenter=true&width=220&lines=Fullstack+Learner;React+%26+Next.js;Clean+Code+Enthusiast" alt="Typing SVG" />
+          </a>
+        </td>
 
-  <p align="center">
-    <i>Mengubah ide kreatif menjadi aplikasi web yang interaktif, cepat, dan responsif.</i>
-  </p>
+        <!-- Right Side: Cyber Code Profile Data -->
+        <td width="65%" valign="top" style="padding: 20px; text-align: left;">
+          <pre style="margin: 0; background: transparent; border: none; font-family: monospace; font-size: 13px; line-height: 1.7; color: #c9d1d9;">
+<span style="color: #ff7b72;">const</span> <span style="color: #79c0ff;">developer</span> = {
+  <span style="color: #7ee787;">name</span>       : <span style="color: #a5d6ff;">'Mardin'</span>,
+  <span style="color: #7ee787;">title</span>      : <span style="color: #a5d6ff;">'Frontend & Web Developer'</span>,
+  <span style="color: #7ee787;">core_stack</span> : [<span style="color: #a5d6ff;">'React'</span>, <span style="color: #a5d6ff;">'Next.js'</span>, <span style="color: #a5d6ff;">'TypeScript'</span>, <span style="color: #a5d6ff;">'Tailwind'</span>],
+  <span style="color: #7ee787;">backend</span>    : [<span style="color: #a5d6ff;">'Node.js'</span>, <span style="color: #a5d6ff;">'Express.js'</span>],
+  <span style="color: #7ee787;">location</span>   : <span style="color: #a5d6ff;">'Indonesia 🇮🇩'</span>,
+  <span style="color: #7ee787;">status</span>     : <span style="color: #a5d6ff;">'🚀 Open for Web Projects & Collaborations'</span>
+};
+          </pre>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <br/>
 
   <!-- Quick Social Badges -->
   <a href="mailto:mardinanarcy@gmail.com">
@@ -27,14 +66,6 @@
 <hr />
 
 ## 🚀 Tentang Saya
-
-```text
-  _  _   _                 
- | || | | |  ___           
- | __ | | | / _ \          
- |_||_| |_| \___/          
-                           
-```
 
 - 🔭 **Sedang Membangun:** Aplikasi web modern dengan performa tinggi
 - 🌱 **Sedang Mempelajari:** **Express.js**, **Next.js**, dan **TypeScript**
