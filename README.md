@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,nodejs,express,mongodb,postgres,git,github,vscode,npm,yarn,postman,vite,vercel,figma&theme=dark&perline=11" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,nodejs,express,mongodb,postgres,mysql,prisma,docker,jest,git,github,vscode,npm,yarn,postman,vite,vercel,figma&theme=dark&perline=14" alt="Tech Stack Icons" />
   </a>
 </p>
 
@@ -96,17 +96,21 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend, Databases & ORM
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/REST_API-0055E5?style=for-the-badge&logo=json&logoColor=white" alt="REST API" />
 </p>
 
-### 🧰 Tools & Development Ecosystem
+### 🧰 DevOps, Testing & Development Tools
 <p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -133,7 +137,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Modern Web Apps</h3>
+      <h3>💻 Modern Web Applications</h3>
       <p>Aplikasi web interaktif berkinerja tinggi yang dibangun menggunakan React.js, Next.js, dan TypeScript dengan desain responsif modern.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -143,11 +147,12 @@
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ RESTful API & Backend Services</h3>
-      <p>Layanan backend dan API yang cepat, aman, dan mudah dikembangkan menggunakan Node.js dan Express.js.</p>
+      <p>Layanan backend dan API yang cepat, aman, dan scalable menggunakan Node.js, Express.js, MySQL, PostgreSQL, Prisma, dan Docker.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
     </td>
   </tr>
