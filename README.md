@@ -1,7 +1,12 @@
 <div align="center">
 
-  <!-- Terminal-style ASCII Art Header -->
-  <img src="header.svg" alt="Mardin Terminal Header" width="100%" />
+  <!-- Animated Typing SVG Header Banner -->
+  <a href="https://github.com/mardinajalah">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00E5FF&center=true&vcenter=true&width=700&lines=Halo!+Saya+Mardin+%F0%9F%91%8B;Frontend+%26+Web+Developer;React+%26+Next.js+Enthusiast;Building+Modern+Web+Apps+%F0%9F%9A%80" alt="Typing SVG Banner" />
+  </a>
+
+  <!-- Animated Glowing Rainbow Wave Separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" alt="Glowing Wave" />
 
   <br/><br/>
 
